@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfManageEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ManageEmployee>
+    <staffID>1</staffID>
+    <staffName>Dipendra</staffName>
+    <address>Kathmandu</address>
+    <contact>9805494612</contact>
+    <salary>20000</salary>
+  </ManageEmployee>
+  <ManageEmployee>
+    <staffID>2</staffID>
+    <staffName>Rahul</staffName>
+    <address>Kamal Pokhari</address>
+    <contact>63663663</contact>
+    <salary>3333</salary>
+  </ManageEmployee>
+  <ManageEmployee>
+    <staffID>3</staffID>
+    <staffName>Virat</staffName>
+    <address>Kamal Pokhari</address>
+    <contact>6664646</contact>
+    <salary>63646646</salary>
+  </ManageEmployee>
+  <ManageEmployee>
+    <staffID>4</staffID>
+    <staffName>Smith</staffName>
+    <address>Australia</address>
+    <contact>646466</contact>
+    <salary>46444646</salary>
+  </ManageEmployee>
+  <ManageEmployee>
+    <staffID>5</staffID>
+    <staffName>Rohit</staffName>
+    <address>Kathmandu</address>
+    <contact>99999999</contact>
+    <salary>66656656</salary>
+  </ManageEmployee>
+</ArrayOfManageEmployee>

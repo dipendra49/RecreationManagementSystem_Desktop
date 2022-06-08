@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfManageDiscount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ManageDiscount>
+    <visitorGroup>Group of 5</visitorGroup>
+    <discount>10</discount>
+  </ManageDiscount>
+  <ManageDiscount>
+    <visitorGroup>Group of 10</visitorGroup>
+    <discount>15</discount>
+  </ManageDiscount>
+  <ManageDiscount>
+    <visitorGroup>Group of 15</visitorGroup>
+    <discount>20</discount>
+  </ManageDiscount>
+  <ManageDiscount>
+    <visitorGroup>Group of 20</visitorGroup>
+    <discount>25</discount>
+  </ManageDiscount>
+</ArrayOfManageDiscount>

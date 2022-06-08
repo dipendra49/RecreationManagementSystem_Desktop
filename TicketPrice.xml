@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfManageTicket xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ManageTicket>
+    <hours>1Hr</hours>
+    <customerType>CHILD</customerType>
+    <ticketPrice>400</ticketPrice>
+  </ManageTicket>
+  <ManageTicket>
+    <hours>2Hrs</hours>
+    <customerType>CHILD</customerType>
+    <ticketPrice>700</ticketPrice>
+  </ManageTicket>
+  <ManageTicket>
+    <hours>3Hrs</hours>
+    <customerType>CHILD</customerType>
+    <ticketPrice>1050</ticketPrice>
+  </ManageTicket>
+  <ManageTicket>
+    <hours>4Hrs</hours>
+    <customerType>CHILD</customerType>
+    <ticketPrice>1450</ticketPrice>
+  </ManageTicket>
+  <ManageTicket>
+    <hours>Whole Day</hours>
+    <customerType>CHILD</customerType>
+    <ticketPrice>2200</ticketPrice>
+  </ManageTicket>
+  <ManageTicket>
+    <hours>1Hr</hours>
+    <customerType>ADULT</customerType>
+    <ticketPrice>550</ticketPrice>
+  </ManageTicket>
+  <ManageTicket>
+    <hours>2Hrs</hours>
+    <customerType>ADULT</customerType>
+    <ticketPrice>1000</ticketPrice>
+  </ManageTicket>
+  <ManageTicket>
+    <hours>3Hrs</hours>
+    <customerType>ADULT</customerType>
+    <ticketPrice>1500</ticketPrice>
+  </ManageTicket>
+  <ManageTicket>
+    <hours>4Hrs</hours>
+    <customerType>ADULT</customerType>
+    <ticketPrice>2100</ticketPrice>
+  </ManageTicket>
+  <ManageTicket>
+    <hours>Whole Day</hours>
+    <customerType>ADULT</customerType>
+    <ticketPrice>2700</ticketPrice>
+  </ManageTicket>
+  <ManageTicket>
+    <hours>Whole Day</hours>
+    <customerType>ADULT</customerType>
+    <ticketPrice>1000</ticketPrice>
+  </ManageTicket>
+</ArrayOfManageTicket>
